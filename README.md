@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">Computer science student</h3>
 <h1></h1>
 
-<img align="right"  alt="codingpic" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" >
+<img align="right"  alt="codingpic" width="400" height="700" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" >
 
 - 📫 How to reach me **moshe123bs@gmail.com**
 
@@ -62,9 +62,17 @@ Here are some ideas to get you started:
 
 
 <h1> 📊 Stats: </h1> 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moshebens&show_icons=true&locale=en&layout=compact" alt="moshebens" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moshebens&show_icons=true&locale=en" alt="moshebens" /></p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moshebens&" alt="moshebens" /></p>
+<div align="center">
+  <div>
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moshebens&show_icons=true&locale=en&layout=compact" alt="moshebens" /></p>
+  </div>
+  
+  <div>
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moshebens&show_icons=true&locale=en" alt="moshebens" /></p>
+  </div>
+
+  <div>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moshebens&" alt="moshebens" /></p>
+  </div>
+</div>
 
