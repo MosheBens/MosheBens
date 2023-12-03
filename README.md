@@ -20,12 +20,15 @@ Here are some ideas to get you started:
 
 <img align="right"  alt="codingpic" width="400" height="700" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" >
 
+<h4>
 - 📫 How to reach me **moshe123bs@gmail.com**
+</h4>
 
 <p align="left">
 </p>
 
 <h3 align="left"> 🛠️ Skills:</h3>
+<h1></h1>
 <p align="left">
 
 <h4>Languages: </h4> 
