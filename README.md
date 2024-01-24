@@ -18,10 +18,11 @@ Here are some ideas to get you started:
 <h3 align="center">Computer science student</h3>
 <h1></h1>
 
-<img align="right"  alt="codingpic" width="400" height="700" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" >
+<img align="right"   alt="codingpic" width="400" height="700" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" >
 
 <h4>
-- 📫 How to reach me **moshe123bs@gmail.com**
+    📫 How to reach me <a href="mailto:moshe123bs@gmail.com">moshe123bs@gmail.com</a>
+    <a href="https://moshebenshimolwebsite.netlify.app"><h2>👉 My Portfolio Website Link</h2></a>
 </h4>
 
 <p align="left">
