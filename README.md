@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <h4 align="center">
     📫 How to reach me <a href="mailto:moshe123bs@gmail.com">moshe123bs@gmail.com</a>
-    <a href="https://moshebenshimolwebsite.netlify.app"><h2>👉 My Portfolio Website Link</h2></a>
+    <a href="https://moshebenshimolwebsite.netlify.app"><h1>👉 My Portfolio Website Link</h1></a>
 </h4>
 
 <img align="right"   alt="codingpic" width="400" height="700" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" >
